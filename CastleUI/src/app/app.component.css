@@ -1,0 +1,54 @@
+  table {
+    width: 100%;
+  }
+  
+  img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .castle-list{
+    padding: 10px;
+    width: 100%;
+  }
+
+  th.mat-header-cell {
+    background-color: skyblue;
+    font-size: 1.2em;
+  }
+
+  th.mat-sort-header-sorted {
+    color: black;
+  }
+
+  .loading {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background: white;
+  }
+
+  .castle-form{
+    margin: 30px;
+    width: 100%;
+  }
+
+  
+.form-container{
+  width: 400 px; 
+  margin: 0 px auto; 
+  margin-top: 200 px;
+  padding: 20px;
+  border: 0.5px solid skyblue;
+  border-radius: 8px;
+}
+
+.form-field{
+  display: block
+}
+
+.button{
+  width: 120px !important;
+  height: 40px !important;
+  margin-right: 2px !important
+}
